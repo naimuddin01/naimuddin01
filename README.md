@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Naim Uddin
+### Hi there 👋, Naim Uddin
 ####I'm a Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/D4D16AQEjJtGqaUgRPQ/profile-displaybackgroundimage-shrink_350_1400/0/1698429672863?e=1704931200&v=beta&t=y3EctdOwX2noUxYAdPrVbQXigwJCJqbd-XH92Xbn4f8)
 
