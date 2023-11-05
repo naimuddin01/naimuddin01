@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Naim Uddin
-#### Software Engineer
+####I'm a Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/D4D16AQEjJtGqaUgRPQ/profile-displaybackgroundimage-shrink_350_1400/0/1698429672863?e=1704931200&v=beta&t=y3EctdOwX2noUxYAdPrVbQXigwJCJqbd-XH92Xbn4f8)
 
 I am a recent graduate in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University. With a strong foundation in problem-solving and critical thinking, I specialize in JavaScript and have hands-on experience in various projects involving React.js, Node.js, Machine Learning, and Data Engineering. Additionally, I am proficient in languages such as C, C++, JavaScript, Python and PHP.
