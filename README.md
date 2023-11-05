@@ -4,6 +4,7 @@
 ![Software Engineer](https://github.com/naimuddin01/naimuddin01/blob/main/banner.jpg)
 
 I am a recent graduate in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University. With a strong foundation in problem-solving and critical thinking, I specialize in JavaScript and have hands-on experience in various projects involving React.js, Node.js, Machine Learning, and Data Engineering. Additionally, I am proficient in languages such as C, C++, JavaScript, Python and PHP.
+
 Skills: NODE.JS / EXPRESS.JS / REACT / JS / HTML / CSS
 
 ## Social link
