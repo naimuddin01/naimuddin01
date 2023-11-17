@@ -10,11 +10,19 @@ I am a recent graduate in Computer Science and Engineering from Bangabandhu Shei
 ## Social link
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naimuddin01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/naimuddin01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sharif-naim-uddin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/BsmrstuNaimUddin/)  
 
-## Example of work
+## My Featured Applications :
+<a href="https://github.com/naimuddin01/hall-management-client" target="_blank">
 <img src="https://github.com/naimuddin01/naimuddin01/blob/main/hall-meal-management.gif" width="256"></img>
+</a>
+<a href="https://github.com/naimuddin01/doctors-portal-client" target="_blank">
 <img src="https://github.com/naimuddin01/naimuddin01/blob/main/Doctors-Portal.gif" width="256"></img>
+</a>
+<a href="https://github.com/naimuddin01/ema-john-simple" target="_blank">
 <img src="https://github.com/naimuddin01/naimuddin01/blob/main/ema-john.gif" width="256"></img>
+</a>
+<a href="https://github.com/naimuddin01/bistro-boss-client" target="_blank">
 <img src="https://github.com/naimuddin01/naimuddin01/blob/main/food-market.gif" width="256"></img>
+</a>
 
 ### Github Stats
 
